@@ -1,6 +1,6 @@
 # Control Theory Workbench
 
-This repository is purely for educational purposes. 
+This repository is a workbench for implementing algorithms related to control systems, data structures, path planning, AI, and ML. Purely for educational purposes.
 
 ## Directory
 
